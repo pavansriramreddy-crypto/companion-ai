@@ -1,0 +1,6 @@
+{
+  "name": "Companion AI",
+  "description": "An intelligent companion AI assistant featuring real-time database synchronization, dark mode toggle, specialized persona categories, and secure server-side Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
